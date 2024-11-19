@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "144068718121",
+    "project_id": "blood-donation-4da9b",
+    "storage_bucket": "blood-donation-4da9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144068718121:android:078d0e15caf7bd23eef638",
+        "android_client_info": {
+          "package_name": "com.example.blood_donation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144068718121-0l0o7ieitbldrom0thi5mppiviuhiafh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCNP6NtXeGMvTJYo02O4a3kyMWy7sPgD8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144068718121-0l0o7ieitbldrom0thi5mppiviuhiafh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "144068718121-mb56vvk64r0bm518n4vof5c03mv6gdtd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.yourkoseli.bloodAppNepal"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
